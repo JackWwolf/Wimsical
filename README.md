@@ -33,10 +33,10 @@ $$
 ## 🛡️ Resolution of Key Cosmological Anomalies
 
 By combining these four baryonic forces, the GEE Model self-consistently addresses major cosmological crises without dark matter:
-*   **Ultra-Flat Galactic Disks**: Governed by vertical thermodynamic collapse (cooling through particle collisions) versus horizontal geometric anchoring (\(\mathbf{\Phi}\)) and toroidal magnetic field alignment (\(\mathbf{M}\)).
-*   **Dark Galaxies (J1351+0039 Balance)**: The 11.6 km/s random thermal gas pressure pushing outwards is perfectly held in a hydrostatic equilibrium by the automatically awoken geometric aberration term (\(\mathbf{\Phi}\)) pulling inwards.
-*   **The Bullet Cluster Overexpansion**: High-density plasma is frictionally trapped at the center via \(\mathbf{R}\), while stars pass through into near-vacuum environments, triggering an exponential surge in the inverse geometric term (\(\mathbf{\Phi}\)) at the edges—naturally shifting the gravitational lens core outwards.
-*   **Early Massive Galaxies (JWST Anomalies) & CMB Asymmetry**: In the ultra-high temperature (T) of the early universe, the entropic gradient term \(\boldsymbol{\nabla}(\ln \Omega)\) acts as a powerful catalyst, drastically accelerating gas condensation into mature galaxies long before mainstream dark matter models predict.
+*   **Ultra-Flat Galactic Disks**: Governed by *   **Ultra-Flat Galactic Disks**: Governed by vertical thermodynamic collapse (cooling through particle collisions) versus horizontal geometric anchoring ($\mathbf{\Phi}$) and toroidal magnetic field alignment ($\mathbf{M}$).
+*   **Dark Galaxies (J1351+0039 Balance)**: The 11.6 km/s random thermal gas pressure pushing outwards is perfectly held in a hydrostatic equilibrium by the automatically awoken geometric aberration term ($\mathbf{\Phi}$) pulling inwards.
+*   **The Bullet Cluster Overexpansion**: High-density plasma is frictionally trapped at the center via $\mathbf{R}$, while stars pass through into near-vacuum environments, triggering an exponential surge in the inverse geometric term ($\mathbf{\Phi}$) at the edges—naturally shifting the gravitational lens core outwards.
+*   **Early Massive Galaxies (JWST Anomalies) & CMB Asymmetry**: In the ultra-high temperature (T) of the early universe, the entropic gradient term $\boldsymbol{\nabla}(\ln \Omega)$ acts as a powerful catalyst, drastically accelerating gas condensation into mature galaxies long before mainstream dark matter models predict.
 
 ---
 

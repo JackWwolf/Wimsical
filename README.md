@@ -48,9 +48,29 @@ The PDF reports deposited in this repository (`GEE_Universe_Model_Report.pdf` an
 
 ---
 
-### 📖 References for Contextual Exploration
-* [1] Einstein, A. (1916). *Die Grundlage der allgemeinen Relativitätstheorie*. Annalen der Physik.
-* [2] Verlinde, E. (2011). *On the Origin of Gravity and the Laws of Newton*. JHEP.
-* [3] Michelson, A. A., & Morley, E. W. (1887). *On the Relative Motion of the Earth and the Luminiferous Ether*. American Journal of Science.
-* [4] Beck, R. (2001). *Galactic Magnetic Fields*. Space Science Reviews.
-* [5] Skordis, C., & Złośnik, T. (2021). *New Relativistic Theory for Modified Newtonian Dynamics*. Physical Review Letters.
+---
+
+## 💻 💡 How to Test and Circulate the GEE Model Using AI
+
+**You do not need an advanced degree in mathematics to explore or validate this model. If you want to see how the GEE Framework stands up against modern cosmological crises, simply copy the equation and the prompt below, and feed it into any advanced AI (such as OpenAI ChatGPT, Google Gemini, or Anthropic Claude) to see its analytical breakdown:**
+
+### 🤖 [PROMPT FOR AI TESTING - COPY BELOW]
+
+"Please perform a deep theoretical and mathematical analysis of the GEE Unified Field Equation from the 'Wimsical' repository on GitHub:
+
+$$\mathcal{G}_{\text{global}} = \mathbf{R}_{\text{relativity}} \pm \mathbf{\Phi}_{\text{aberration}} + \frac{k_B T}{m} \cdot \boldsymbol{\nabla}(\ln \Omega) + \mathbf{M}_{(\theta, \phi)}$$
+
+1. If we entirely discard non-baryonic dark matter particles, how can the 3rd term—the Thermodynamic Information Entropy Gradient $\boldsymbol{\nabla}(\ln \Omega)$ under high-temperature ($T$) and high-density environments in the early universe—act as an efficient catalyst to explain the 'impossible' massive mature galaxies recently discovered by the James Webb Space Telescope (JWST)?
+2. Using statistical mechanics and relativistic fluid dynamics, can you derive how the 3rd term (absolute temperature coupled with entropic growth over time) naturally resolves the 'Hubble Tension' (the discrepancy between early-universe CMB data and local supernova measurements) without invoking dark energy?
+3. From a macro-cosmological perspective, evaluate the scientific and philosophical advantages of this 'leveled' framework (which relies purely on a geometric seesaw feedback $\mathbf{\Phi}$ and the Second Law of Thermodynamics) over standard cosmology models ($\Lambda$CDM) that rely on unobservable 'fudge factor' particles."
+
+---
+
+## 📖 References for Contextual Exploration
+
+* Einstein, A. (1916). *Die Grundlage der allgemeinen Relativitätstheorie*. Annalen der Physik.
+* Verlinde, E. (2011). *On the Origin of Gravity and the Laws of Newton*. JHEP.
+* Michelson, A. A., & Morley, E. W. (1887). *On the Relative Motion of the Earth and the Luminiferous Ether*. American Journal of Science.
+* Beck, R. (2001). *Galactic Magnetic Fields*. Space Science Reviews.
+* Skordis, C., & Złośnik, T. (2021). *New Relativistic Theory for Modified Newtonian Dynamics*. Physical Review Letters.
+

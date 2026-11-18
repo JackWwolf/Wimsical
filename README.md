@@ -73,3 +73,14 @@ S_global = χ1(a, κ) * R_relativity ± χ2(a, κ) * Φ_inverse + χ3(ρ, T) * (
 1. If we completely discard non-baryonic dark matter particles, how does the 3rd term—the Thermodynamic Information Entropy Gradient ∇(ln Ω)—act under high temperatures (T) in the early universe to catalyze the formation of "impossible" early massive galaxies observed by JWST?
 2. Using statistical mechanics and relativistic fluid dynamics, how can the 3rd term (coupling absolute temperature evolution with entropy growth) naturally resolve the "Hubble Tension" without invoking dark energy?
 3. Explain how the regime-switching operators (χ1, χ2) preserve 100% General Relativity precision in our Solar System while flipping Φ_inverse into a repulsive phase (-Φ_inverse) inside black hole cores to prevent singularity collapse.
+4. From a macro-cosmological perspective, evaluate the scientific and philosophical advantages of this dynamic regime-switching framework over the standard ΛCDM model's reliance on unobservable "fudge factor" particles.
+```
+
+📚 Background & Reference Literature
+
+• Einstein, A. (1916). Die Grundlage der allgemeinen Relativitätstheorie (The Foundation of the General Theory of Relativity). Annalen der Physik.
+• Verlinde, E. (2011). On the Origin of Gravity and the Laws of Newton. Journal of High Energy Physics (JHEP).
+• Michelson, A. A., & Morley, E. W. (1887). On the Relative Motion of the Earth and the Luminiferous Ether. American Journal of Science.
+• Beck, R. (2001). Galactic and Intergalactic Magnetic Fields. Space Science Reviews.
+• Skordis, C., & Złośnik, T. (2021). A New Relativistic Theory for Modified Newtonian Dynamics. Physical Review Letters.
+

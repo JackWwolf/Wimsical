@@ -1,7 +1,9 @@
 # Wimsical: The GEE Universe Model (v4.1)
 **A Global Geometry–Entropy–Electromagnetism Framework for a Dark-Matter-Free Universe Driven by Space-Weaving Energy Waves**
 
-📄 **Official Core Document (v4.1):** [`GEE_Universe_Model_v4.1.pdf`](./GEE_Universe_Model_v4.1.pdf)
+### 📂 Official v4.1 Core Documents
+* 📄 **Structural Core & Field Equations:** [`GEE_Universe_Model_v4.1.pdf`](./GEE_Universe_Model_v4.1.pdf)
+* 📑 **Full Unified Operation & Validation Report:** [`GEE_Universe_Model_Report_v4.1.pdf`](./GEE_Universe_Model_Report_v4.1.pdf)
 
 ---
 
@@ -46,14 +48,14 @@ By dynamically coupling these four mechanisms, the GEE Model self-consistently r
 
 * **Ultra-Flat Galactic Disks:** Governed by vertical thermodynamic collapse (via collisional particle cooling) balanced by horizontal geometric anchoring ($+\Phi_{\text{inverse}}$) and toroidal magnetic field alignment ($M_{(\theta, \phi)}$).
 * **Dark Galaxies (e.g., J1351+0039 Equilibrium):** Outward random thermal gas pressure ($11.6\text{ km/s}$) maintains hydrostatic equilibrium against the inward pull of the automatically activated inverse geometric term ($+\Phi_{\text{inverse}}$).
-* **Bullet Cluster Offset:** High-density plasma is trapped at the center via electromagnetic friction, while collisionless stars entering near-vacuum environments trigger exponential growth of the inverse geometric term ($+\Phi_{\text{inverse}}$ at the outskirts), naturally shifting the gravitational lensing center outward.
-* **Early Massive Galaxies (JWST Anomaly) & CMB Asymmetry:** Under extreme early-universe temperatures ($T$), the entropy gradient term $\nabla(\ln \Omega)$ acts as a powerful catalyst, accelerating gas condensation into mature galaxies long before standard dark matter timelines predict.
+* **Bullet Cluster (1E 0657-56) Offset:** High-density plasma is trapped at the center via electromagnetic friction, while collisionless stars pass cleanly into near-vacuum environments, triggering exponential growth of the inverse geometric term ($+\Phi_{\text{inverse}}$ at the outskirts) and shifting the gravitational lensing center outward.
+* **Early Massive Galaxies (JWST Anomaly) & CMB Asymmetry:** Under extreme early-universe temperatures ($T$), the entropy gradient term $\nabla(\ln \Omega)$ acts as a powerful catalyst, amplifying acoustic compression peaks and accelerating gas condensation into mature galaxies long before standard dark matter timelines predict.
 * **Black Hole Singularity Prevention:** At the Planck curvature threshold ($\kappa \to \kappa_{\text{Planck}}$), the repulsive phase $-\Phi_{\text{inverse}}$ halts infinite collapse, resolving the mathematical breakdown of classical General Relativity.
 
 ---
 
 ## 🏛️ Open Invitation to Falsify
-The core PDF document in this repository (**`GEE_Universe_Model_v4.1.pdf`**) represents my ongoing contribution to bridging historical equations. Scientific progress relies on bold hypotheses and rigorous falsification. I do not claim this model is an infallible ultimate truth, nor do I deny its conceptual overlaps with contemporary entropic gravity (e.g., Verlinde’s framework) or relativistic MOND.
+The official PDF documents in this repository (**`GEE_Universe_Model_v4.1.pdf`** and **`GEE_Universe_Model_Report_v4.1.pdf`**) represent my ongoing contribution to bridging historical equations. Scientific progress relies on bold hypotheses and rigorous falsification. I do not claim this model is an infallible ultimate truth, nor do I deny its conceptual overlaps with contemporary entropic gravity (e.g., Verlinde’s framework) or relativistic MOND.
 
 I hereby declare this framework **100% open-source**. I sincerely invite cosmologists, physicists, and data analysts worldwide to subject this model to rigorous field-theory scrutiny, mathematical dissection, peer review, or outright refutation using real-world telescope data. Let us discard artificial fudge factors and return to the pure essence of geometry and thermodynamics.
 
@@ -71,9 +73,3 @@ S_global = χ1(a, κ) * R_relativity ± χ2(a, κ) * Φ_inverse + χ3(ρ, T) * (
 1. If we completely discard non-baryonic dark matter particles, how does the 3rd term—the Thermodynamic Information Entropy Gradient ∇(ln Ω)—act under high temperatures (T) in the early universe to catalyze the formation of "impossible" early massive galaxies observed by JWST?
 2. Using statistical mechanics and relativistic fluid dynamics, how can the 3rd term (coupling absolute temperature evolution with entropy growth) naturally resolve the "Hubble Tension" without invoking dark energy?
 3. Explain how the regime-switching operators (χ1, χ2) preserve 100% General Relativity precision in our Solar System while flipping Φ_inverse into a repulsive phase (-Φ_inverse) inside black hole cores to prevent singularity collapse.
-4. From a macro-cosmological perspective, evaluate the scientific and philosophical advantages of this dynamic regime-switching framework over the standard ΛCDM model's reliance on unobservable "fudge factor" particles.
-```
-
----
-
-## 📚 Background & Reference Literature

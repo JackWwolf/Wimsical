@@ -1,76 +1,79 @@
-# Wimsical: The GEE Universe Model
-**A global geometric-entropic-electromagnetic framework for a dark-matter-free universe driven by space-weaving energy waves.**
+# Wimsical: The GEE Universe Model (v4.1)
+**A Global Geometry–Entropy–Electromagnetism Framework for a Dark-Matter-Free Universe Driven by Space-Weaving Energy Waves**
+
+📄 **Official Core Document (v4.1):** [`GEE_Universe_Model_v4.1.pdf`](./GEE_Universe_Model_v4.1.pdf)
 
 ---
 
 ## 🌌 Project Introduction
+Welcome to **Wimsical**, an open-source thought experiment and mathematical framework built entirely upon fundamental laws of physics: **Relativistic Geometry, Statistical Thermodynamics, and Magnetohydrodynamics (The GEE Equation)**.
 
-Welcome to **Wimsical**, an open-source thought experiment and mathematical framework built entirely on the foundational laws of physics: relativistic geometry, statistical thermodynamics, and electro-magnetohydrodynamics (the **GEE Equation**). 
+As a pragmatist skeptical of modern cosmological patches, I reject the reliance on ad-hoc "fudge factors"—specifically **Dark Matter** and **Dark Energy**. Describing these hypothetical entities as invisible ghosts that pass effortlessly through ordinary matter while possessing god-like power to sculpt entire galactic macro-structures is inherently paradoxical. Throughout the history of science, whenever an incomplete equation failed to balance under extreme conditions, unseen ghosts were invented to save the old paradigm—much like the 19th-century *Luminiferous Aether* or Ptolemaic *epicycles*. True progress requires re-examining the mathematical terms that were prematurely simplified to zero and redefining our core boundary conditions.
 
-As a pragmatist skeptical of contemporary cosmology, I cannot accept the mainstream "fudge factors" known as **Dark Matter** and **Dark Energy**. These hypothetical entities are paradoxically described as ghosts that effortlessly penetrate everyday matter, yet possess supreme divine power to sculpt the macro-structure of entire galaxies. Throughout scientific history, whenever an incomplete equation failed to balance under extreme conditions, scientists conjured invisible phantoms to save the old paradigm—much like the *Aether* of the 19th century or the *Epicycles* of geocentrism. True progress, however, demands that we un-omit the mathematical terms previously simplified to zero and re-examine the core boundary conditions of our equations.
-
-Mainstream physics routinely ignores subtle terms for simplicity in localized, high-acceleration systems (like our solar system). Yet, when calculated at the cosmic scale, the cosmic background temperature, or gravitational limits, these inherent terms become dominant. If absolute zero cannot freeze quantum fluctuations entirely, how can we prove the existence of dark matter? To quote a philosophical truism: *if you listen to enough ghost stories, you will eventually believe in ghosts.* Physics must not rely on unobservable, un-manufacturable phantoms to rescue flawed approximations.
-
----
-
-## 🧮 The GEE Unified Field Equation
-
-The GEE Model entirely discards non-baryonic dark matter particles. Instead, it views the cosmos as a dynamic, living manifold woven by geometry, entropic gradients, and electromagnetic tension, governed by the following self-regulating field equation:
-
-$$
-\mathcal{G} = \mathbf{R} \pm \mathbf{\Phi} + \frac{k_B T}{m} \cdot \boldsymbol{\nabla}(\ln \Omega) + \mathbf{M}
-$$
-
-
-### 🔑 Component Core Definitions:
-1. $\mathbf{R}_{\text{relativity}}$ (Mass-Energy Term): Einstein's standard general relativity tensor. It dominates regular high-acceleration and high-density environments (e.g., our solar system, black hole accretion disks), where observed baryonic mass perfectly matches gravitational output.
-2. $\mathbf{\Phi}_{\text{aberration}}$ (Geometric Seesaw Feedback Term): An inverse geometric feedback mechanism. At the ultra-low acceleration limit ($\le 1.2 \times 10^{-10}\text{ m/s}^2$) of deep intergalactic space, this term naturally awakes in a seesaw relationship with R, providing an additional spacetime geometric tension that binds outlying gas without ghostly particles.
-3. $\frac{k_B T}{m} \cdot \boldsymbol{\nabla}(\ln \Omega)$ (Thermodynamic Information Entropy Term): Defines the very fabric of space and time. Where energy waves, particles, and absolute temperature (T > 0) expand, the micro-information states ($\Omega$) evolve, weaving three-dimensional space out of absolute void. At T = 0, this term vanishes, freezing time and causing space to collapse.
-4. $\mathbf{M}_{(\theta, \phi)}$ (Anisotropic Directional Electromagnetic Term): Manages cosmic-scale primordial magnetic fields and plasma tensions. Critically, it introduces the directional beaming parameters ($\theta, \phi$). Many celestial structures emit energy like directional lasers rather than omnidirectional spheres. If Earth's instruments miss the signal due to spatial misalignment, it reflects an observational blind spot, not a lack of ordinary matter.
+Mainstream physics routinely ignores subtle terms to simplify calculations in localized, high-acceleration systems (such as our Solar System). However, when scaling up to intergalactic voids, cosmic background temperatures, or extreme gravitational curvature limits, these intrinsic terms become dominant.
 
 ---
 
-## 🛡️ Resolution of Key Cosmological Anomalies
+## 🧮 The GEE Unified Field Equation (v4.1 Dynamic Edition)
+The GEE Model completely discards non-baryonic dark matter particles and static dark energy constants. Instead, it treats the universe as a dynamic, living manifold woven by geometry, entropy gradients, and electromagnetic tensions, governed by the following **self-regulating, regime-switching field equation**:
 
-By combining these four baryonic forces, the GEE Model self-consistently addresses major cosmological crises without dark matter:
-*   **Ultra-Flat Galactic Disks**: Governed by *   **Ultra-Flat Galactic Disks**: Governed by vertical thermodynamic collapse (cooling through particle collisions) versus horizontal geometric anchoring ($\mathbf{\Phi}$) and toroidal magnetic field alignment ($\mathbf{M}$).
-*   **Dark Galaxies (J1351+0039 Balance)**: The 11.6 km/s random thermal gas pressure pushing outwards is perfectly held in a hydrostatic equilibrium by the automatically awoken geometric aberration term ($\mathbf{\Phi}$) pulling inwards.
-*   **The Bullet Cluster Overexpansion**: High-density plasma is frictionally trapped at the center via $\mathbf{R}$, while stars pass through into near-vacuum environments, triggering an exponential surge in the inverse geometric term ($\mathbf{\Phi}$) at the edges—naturally shifting the gravitational lens core outwards.
-*   **Early Massive Galaxies (JWST Anomalies) & CMB Asymmetry**: In the ultra-high temperature (T) of the early universe, the entropic gradient term $\boldsymbol{\nabla}(\ln \Omega)$ acts as a powerful catalyst, drastically accelerating gas condensation into mature galaxies long before mainstream dark matter models predict.
+$$S_{\text{global}} = \chi_1(a, \kappa) \cdot R_{\text{relativity}} \pm \chi_2(a, \kappa) \cdot \Phi_{\text{inverse}} + \chi_3(\rho, T) \cdot \left(\frac{k_B T}{m}\right) \cdot \nabla(\ln \Omega) + \chi_4(B, \theta, \phi) \cdot M_{(\theta, \phi)}$$
 
----
-
-## 🏛️ Open Invitation for Provocation
-
-The PDF reports deposited in this repository (`GEE_Universe_Model_Report.pdf` and `GEE_Universe_Model_Discussion_Summary_v2.pdf`) represent my contribution to leveling the rugged paths left by historical equations. Science advances through bold assumptions and rigorous falsification. I do not claim this model to be a flawless ultimate truth, nor do I deny its conceptual overlaps with contemporary entropic gravity (e.g., Verlinde's framework) or relativistic MOND. 
-
-**I declare this framework entirely open-source. I cordially invite cosmologists, physicists, and data analysts worldwide to challenge, mathematically dissect, peer-review, or completely debunk this model using rigorous field mathematics or real-world telescope data.** Let us discard the fudge factors and return to the elegant purity of geometry and thermodynamics.
+### 🔑 Core Component Definitions:
+1. **$R_{\text{relativity}}$ (Mass-Energy Tensor Term):** Einstein’s standard General Relativity tensor. When $\chi_1 \to 1$, it exercises absolute dominance in conventional high-acceleration and high-density environments (e.g., our Solar System, stellar surfaces, and black hole accretion disks), where observed baryonic mass perfectly matches gravitational output.
+2. **$\Phi_{\text{inverse}}$ (Bidirectional Geometric Seesaw Term):** An intrinsic, bidirectional geometric feedback mechanism. At ultra-low acceleration limits ($a \le 1.2 \times 10^{-10}\text{ m/s}^2$) in deep intergalactic space, $+\chi_2$ activates the attractive phase ($+\Phi_{\text{inverse}}$), providing extra spacetime geometric tension to bind outer galactic gas without ghost particles. Conversely, inside black hole interiors near the Planck curvature limit ($\kappa \to \kappa_{\text{Planck}}$), $-\chi_2$ flips into a repulsive counter-phase ($-\Phi_{\text{inverse}}$) to prevent infinite singularity collapse.
+3. **$\left(\frac{k_B T}{m}\right) \cdot \nabla(\ln \Omega)$ (Thermodynamic Information Entropy Term):** Defines the fundamental fabric of spacetime. Wherever energy waves, particles, and absolute temperature ($T > 0$) expand, evolving micro-information states ($\Omega$) weave 3D space out of absolute void. Inside extreme black hole cores, this term transitions into ultra-dense micro-information storage ($\Omega$). When $T \to 0\text{ K}$, $\chi_3 \to 0$ and this term vanishes, freezing time and collapsing spatial expansion.
+4. **$M_{(\theta, \phi)}$ (Anisotropic Directional Electromagnetic Term):** Governs cosmic-scale primordial magnetic fields and plasma fluid tensions. Activated via $\chi_4$, it introduces directional beaming coordinates $(\theta, \phi)$, recognizing that many cosmic structures emit energy like directional lasers rather than omnidirectional spheres. If Earth's instruments miss a signal due to spatial misalignment, it reflects an observational blind spot rather than missing baryonic matter.
 
 ---
 
----
+## ⚙️ Dynamic Regime-Switching Architecture (v4.1 Upgrade)
+Crucially, the four terms in $S_{\text{global}}$ do not operate at full amplitude simultaneously. Governed by dimensionless switching operators ($\chi_i \in$), terms automatically suppress to zero or activate smoothly from zero depending on local physical thresholds:
 
-## 💻 💡 How to Test and Circulate the GEE Model Using AI
-
-**You do not need an advanced degree in mathematics to explore or validate this model. If you want to see how the GEE Framework stands up against modern cosmological crises, simply copy the equation and the prompt below, and feed it into any advanced AI (such as OpenAI ChatGPT, Google Gemini, or Anthropic Claude) to see its analytical breakdown:**
-
-### 🤖 [PROMPT FOR AI TESTING - COPY BELOW]
-
-"Please perform a deep theoretical and mathematical analysis of the GEE Unified Field Equation from the 'Wimsical' repository on GitHub:
-
-$$\mathcal{G}_{\text{global}} = \mathbf{R}_{\text{relativity}} \pm \mathbf{\Phi}_{\text{aberration}} + \frac{k_B T}{m} \cdot \boldsymbol{\nabla}(\ln \Omega) + \mathbf{M}_{(\theta, \phi)}$$
-
-1. If we entirely discard non-baryonic dark matter particles, how can the 3rd term—the Thermodynamic Information Entropy Gradient $\boldsymbol{\nabla}(\ln \Omega)$ under high-temperature ($T$) and high-density environments in the early universe—act as an efficient catalyst to explain the 'impossible' massive mature galaxies recently discovered by the James Webb Space Telescope (JWST)?
-2. Using statistical mechanics and relativistic fluid dynamics, can you derive how the 3rd term (absolute temperature coupled with entropic growth over time) naturally resolves the 'Hubble Tension' (the discrepancy between early-universe CMB data and local supernova measurements) without invoking dark energy?
-3. From a macro-cosmological perspective, evaluate the scientific and philosophical advantages of this 'leveled' framework (which relies purely on a geometric seesaw feedback $\mathbf{\Phi}$ and the Second Law of Thermodynamics) over standard cosmology models ($\Lambda$CDM) that rely on unobservable 'fudge factor' particles."
+| Cosmic Regime | Physical Threshold | Active Terms ($\chi_i \to \pm 1$) | Suppressed Terms ($\chi_i \to 0$) |
+| :--- | :--- | :--- | :--- |
+| **Solar System & Compact Objects** | $a \gg 1.2 \times 10^{-10}\text{ m/s}^2$, $\kappa < \kappa_{\text{Planck}}$ | $\chi_1 \cdot R_{\text{relativity}}$ | $\chi_2 \cdot \Phi_{\text{inverse}} \to 0$, $\chi_3 \to 0$ |
+| **Galactic Outskirts** | $a \le 1.2 \times 10^{-10}\text{ m/s}^2$ | $+\chi_2 \cdot \Phi_{\text{inverse}}$ ($0 \to +1$) | $\chi_1 \cdot R_{\text{relativity}} \to 0$ |
+| **Intergalactic Voids** | $\rho \to \rho_{\text{void}}$, $T > 0\text{ K}$ | $\chi_3 \cdot (k_B T/m)\nabla(\ln \Omega)$ | $\chi_1 \cdot R_{\text{relativity}} \to 0$ |
+| **Absolute Zero Limit** | $T \to 0\text{ K}$ | Static metric limit | $\chi_3 \text{ (Entropy)} \to 0$ |
+| **Cluster Collisions & Jets** | High plasma ionization & $B$-field | $\chi_4 \cdot M_{(\theta, \phi)}$ + Regime terms | Unaligned beam angles |
+| **Black Hole Interior Core** | $\kappa \to \kappa_{\text{Planck}}$, $\rho \to \rho_{\text{Planck}}$ | $-\chi_2 \cdot \Phi_{\text{inverse}}$ (Repulsive), $\chi_3$ ($\Omega$ storage) | $\chi_1 \cdot R_{\text{relativity}} \to 0$ (Singularity prevented) |
 
 ---
 
-## 📖 References for Contextual Exploration
+## 🛡️ Resolution of Key Cosmic Anomalies
+By dynamically coupling these four mechanisms, the GEE Model self-consistently resolves major cosmological crises without dark matter:
 
-* Einstein, A. (1916). *Die Grundlage der allgemeinen Relativitätstheorie*. Annalen der Physik.
-* Verlinde, E. (2011). *On the Origin of Gravity and the Laws of Newton*. JHEP.
-* Michelson, A. A., & Morley, E. W. (1887). *On the Relative Motion of the Earth and the Luminiferous Ether*. American Journal of Science.
-* Beck, R. (2001). *Galactic Magnetic Fields*. Space Science Reviews.
-* Skordis, C., & Złośnik, T. (2021). *New Relativistic Theory for Modified Newtonian Dynamics*. Physical Review Letters.
+* **Ultra-Flat Galactic Disks:** Governed by vertical thermodynamic collapse (via collisional particle cooling) balanced by horizontal geometric anchoring ($+\Phi_{\text{inverse}}$) and toroidal magnetic field alignment ($M_{(\theta, \phi)}$).
+* **Dark Galaxies (e.g., J1351+0039 Equilibrium):** Outward random thermal gas pressure ($11.6\text{ km/s}$) maintains hydrostatic equilibrium against the inward pull of the automatically activated inverse geometric term ($+\Phi_{\text{inverse}}$).
+* **Bullet Cluster Offset:** High-density plasma is trapped at the center via electromagnetic friction, while collisionless stars entering near-vacuum environments trigger exponential growth of the inverse geometric term ($+\Phi_{\text{inverse}}$ at the outskirts), naturally shifting the gravitational lensing center outward.
+* **Early Massive Galaxies (JWST Anomaly) & CMB Asymmetry:** Under extreme early-universe temperatures ($T$), the entropy gradient term $\nabla(\ln \Omega)$ acts as a powerful catalyst, accelerating gas condensation into mature galaxies long before standard dark matter timelines predict.
+* **Black Hole Singularity Prevention:** At the Planck curvature threshold ($\kappa \to \kappa_{\text{Planck}}$), the repulsive phase $-\Phi_{\text{inverse}}$ halts infinite collapse, resolving the mathematical breakdown of classical General Relativity.
 
+---
+
+## 🏛️ Open Invitation to Falsify
+The core PDF document in this repository (**`GEE_Universe_Model_v4.1.pdf`**) represents my ongoing contribution to bridging historical equations. Scientific progress relies on bold hypotheses and rigorous falsification. I do not claim this model is an infallible ultimate truth, nor do I deny its conceptual overlaps with contemporary entropic gravity (e.g., Verlinde’s framework) or relativistic MOND.
+
+I hereby declare this framework **100% open-source**. I sincerely invite cosmologists, physicists, and data analysts worldwide to subject this model to rigorous field-theory scrutiny, mathematical dissection, peer review, or outright refutation using real-world telescope data. Let us discard artificial fudge factors and return to the pure essence of geometry and thermodynamics.
+
+---
+
+## 💡 How to Test & Explore the GEE Model Using AI
+You do not need an advanced degree in mathematics to explore or stress-test this model. Copy the prompt below and paste it into any advanced AI (such as Google Gemini, OpenAI ChatGPT, or Anthropic Claude) to analyze its mathematical behavior:
+
+### 🤖 [AI Stress-Test Prompt - Copy Below]
+```text
+Please perform an in-depth theoretical and mathematical analysis of the GEE Unified Field Equation (v4.1) from the "Wimsical" repository:
+
+S_global = χ1(a, κ) * R_relativity ± χ2(a, κ) * Φ_inverse + χ3(ρ, T) * (kB * T / m) * ∇(ln Ω) + χ4(B, θ, φ) * M_(θ, φ)
+
+1. If we completely discard non-baryonic dark matter particles, how does the 3rd term—the Thermodynamic Information Entropy Gradient ∇(ln Ω)—act under high temperatures (T) in the early universe to catalyze the formation of "impossible" early massive galaxies observed by JWST?
+2. Using statistical mechanics and relativistic fluid dynamics, how can the 3rd term (coupling absolute temperature evolution with entropy growth) naturally resolve the "Hubble Tension" without invoking dark energy?
+3. Explain how the regime-switching operators (χ1, χ2) preserve 100% General Relativity precision in our Solar System while flipping Φ_inverse into a repulsive phase (-Φ_inverse) inside black hole cores to prevent singularity collapse.
+4. From a macro-cosmological perspective, evaluate the scientific and philosophical advantages of this dynamic regime-switching framework over the standard ΛCDM model's reliance on unobservable "fudge factor" particles.
+```
+
+---
+
+## 📚 Background & Reference Literature

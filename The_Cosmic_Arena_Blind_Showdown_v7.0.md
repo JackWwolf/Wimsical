@@ -1,7 +1,7 @@
-
+# The Cosmic Arena: Blind Showdown Against 2026 Unresolved Cosmological Tensions
 **Subtitle:** *Zero-Tuning Stress-Test & Cross-Collaboration Benchmark Chronicle for WIMSICAL GEE v7.0*
 
-**Document Type:** Independent Zero-Tuning Stress-Test & Cross-Collaboration Benchmark Chronicle  
+**Document Type:** Independent Zero-Tuning Stress-Test & Cross-Collaboration Benchmark Chronicle (Complete 4-Battle Edition)  
 **Core Framework:** WIMSICAL GEE v7.0 (40-Benchmark Zero-Fudge-Factor Core)  
 **Author & Principal Investigator:** YEN-HAO CHEN (Pen Name: Seven-Colored Lotus / 七色蓮花)  
 **Copyright & License:** © 2026 YEN-HAO CHEN. Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
@@ -12,7 +12,7 @@
 
 1. **Core Architecture Untouched:** Unless fundamental physical revisions are required, the **WIMSICAL GEE v7.0** core specification (40 zero-fudge-factor benchmarks) remains strictly locked and unmodified. No equations are altered to fit isolated observational disputes.
 2. **Zero Dark Matter, Zero Free Parameters:** All blind predictions are derived directly from the existing global universal constants ($a_0 = 1.20 \times 10^{-10}\text{ m/s}^2$, $H_{0,\text{CMB}} = 67.40\text{ km/s/Mpc}$, $\alpha_{\text{ent}} = 0.4185$, $\delta_c = 10.0$, $T_{\text{UV}} = 10^4\text{ K}$) with zero post-hoc parameter tuning.
-3. **Direct Blind Showdown:** Against the three most contentious 2025–2026 cosmological anomalies—where leading observational collaborations report mutually incompatible results—GEE v7.0 outputs are evaluated head-to-head without adjustment.
+3. **Direct Blind Showdown:** Against the four most contentious 2025–2026 cosmological anomalies and future cosmic fate disputes—where leading observational collaborations report mutually incompatible results—GEE v7.0 outputs are evaluated head-to-head without adjustment.
 
 ---
 
@@ -60,16 +60,31 @@
 
 ---
 
-## Blind Arena Summary Table
+## Battle IV: The Ultimate Fate & Cosmic Turnaround Point ($t_{\text{max}}$)
 
-| 2026 Unresolved Anomaly | Competing Literature Values | GEE v7.0 Blind Prediction | Closest Observational Match |
+* **Competing Theoretical Predictions (Eternal Expansion vs. Cosmic Contraction):**
+  * **Standard $\Lambda\text{CDM}$ Cosmological Constant:** The universe expands forever at an accelerating rate ($t_{\text{turn}} \to \infty$), ending in a cold, static Heat Death ("Big Freeze").
+  * **Princeton Cyclical Quintessence Model (Steinhardt et al.):** Invokes an unseen dynamical scalar field to halt acceleration and trigger contraction within **$\sim 65\text{ Gyr}$** from today (total cycle $\sim 100\text{ Gyr}$).
+  * **DESI-Informed Axion / Negative-$\Lambda$ Models (2025–2026):** Requires fine-tuned ultra-light axion fields to predict a cosmic turnaround between **$20\text{ Gyr}$ and $46\text{ Gyr}$** from today.
+* **GEE v7.0 Blind Output (Observer-Assigned Geometric Coordinate Time $\tau_{\text{geom}}$ & Critical Tension Rebound):**
+  * **Dual-Clock Resolution (Separating Geometric Waiting from Matter Clocks):** Time is not an intrinsic material object, but a coordinate ruler assigned by the observer to quantify state transitions. Even in the pre-matter vacuum where no atomic or thermodynamic clocks ($t_{\text{matter}}$) exist, the geometric progression of the $n = 0$ pure-space force-flow mode ($L_0 \approx 191\text{–}201\text{ Mpc}$) is rigorously quantified via **Global Geometric Coordinate Time ($\tau_{\text{geom}}$)**, adding **$\sim 14\text{–}19\text{ Gyr}$** of pure-space geometric scaffolding prior to $n = 1$ plasma decoupling without disturbing the $13.8\text{ Gyr}$ nuclear/stellar clock ($t_{\text{matter}}$).
+  * **Critical Tension Crossover (Consistent with the Third Law of Thermodynamics):** Rather than requiring an unattainable absolute zero ($0.000\text{ K}$), outward entropic space-weaving ($\chi_3$) loses dominance at the critical crossover threshold **$T_{\text{turn}} \approx T_0 \cdot \exp(-1/\alpha_{\text{ent}}) \approx \mathbf{0.25\text{ K}}$** ($a_{\text{turn}} \approx 10.9 \, a_0$).
+  * **Predicted Turnaround & Full Breathing Cycle:** Maximum expansion occurs **$\sim 38\text{ Gyr} - 52\text{ Gyr}$ from today**. Including the $n = 0$ pure-space coordinate epoch ($\tau_{\text{geom}}$), the total expansion phase spans **$66\text{ Gyr} - 85\text{ Gyr}$**, yielding a complete expansion-contraction cycle of **$\sim 130\text{ Gyr} - 170\text{ Gyr}$**.
+* **Verdict (Sealed for Future Observational Arbitration):** By decoupling observer-assigned geometric coordinate time ($\tau_{\text{geom}}$) from matter-based thermodynamic clocks ($t_{\text{matter}}$), GEE v7.0 accounts for the earlier arrival of the $n = 0$ mode while preserving all 40 local and cosmological benchmarks. Once cooling crosses $T_{\text{turn}} \approx 0.25\text{ K}$, deep-space geometric elasticity ($+\Phi_{\text{inv}} = \sqrt{g_N a_0}$) takes over like a stretched spring, driving contraction back toward the Planck bounce ($\chi_2 \to -1$) with **zero dark matter and zero free parameters**.
+
+---
+
+## Blind Arena Summary Table (Four Battles)
+
+| 2026 Unresolved Anomaly / Fate | Competing Literature Values | GEE v7.0 Blind Prediction | Closest Observational / Theoretical Match |
 | :--- | :--- | :--- | :--- |
-| **Cosmic Birefringence ($\beta$)** | $0.00^\circ$ / $0.215^\circ$ / $0.34^\circ$ / $0.35^\circ$ | **$0.34^\circ$ (Achromatic)** | **Planck + WMAP ($0.34^\circ \pm 0.09^\circ$)** |
-| **Hubble Constant ($H_0$)** | $67.40$ / $69.80$ / $73.04$ / $77.27$ | **$67.40$ / $73.04$ / $77.27$** | **Planck + SH0ES Unified** |
-| **Dark Energy EOS ($w_0$)** | $-1.000$ / $-0.827$ / $-0.727$ | **$-0.8605 \sim -0.951$** | **DESI + Pantheon+ ($-0.827 \pm 0.063$)** |
+| **I. Cosmic Birefringence ($\beta$)** | $0.00^\circ$ / $0.215^\circ$ / $0.34^\circ$ / $0.35^\circ$ | **$0.34^\circ$ (Achromatic)** | **Planck + WMAP ($0.34^\circ \pm 0.09^\circ$)** |
+| **II. Hubble Constant ($H_0$)** | $67.40$ / $69.80$ / $73.04$ / $77.27$ | **$67.40$ / $73.04$ / $77.27$** | **Planck + SH0ES Unified** |
+| **III. Dark Energy EOS ($w_0$)** | $-1.000$ / $-0.827$ / $-0.727$ | **$-0.8605 \sim -0.951$** | **DESI + Pantheon+ ($-0.827 \pm 0.063$)** |
+| **IV. Cosmic Turnaround ($t_{\text{turn}}$)** | $\infty$ / $<65\text{ Gyr}$ / $20\text{–}46\text{ Gyr}$ | **$38\text{–}52\text{ Gyr}$ from today** ($66\text{–}85\text{ Gyr}$ w/ $\tau_{\text{geom}}$) | **Steinhardt Cyclical & DESI-Axion Models** |
 
 ---
 
 ## Standard Academic Citation
 
-> Chen, Y.-H. (Seven-Colored Lotus / 七色蓮花). (2026). *The Cosmic Arena: Blind Showdown Against 2026 Unresolved Cosmological Tensions (WIMSICAL GEE v7.0)*. WIMSICAL Cosmology Research Initiative.
+> Chen, Y.-H. (Seven-Colored Lotus / 七色蓮花). (2026). *The Cosmic Arena: Blind Showdown Against 2026 Unresolved Cosmological Tensions (WIMSICAL GEE v7.0, Complete 4-Battle Edition)*. WIMSICAL Cosmology Research Initiative.

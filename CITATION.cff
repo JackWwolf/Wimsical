@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use the WIMSICAL GEE v7.3 Master Monograph, Paper IV, or verification scripts in your research, please cite them using the metadata below."
+title: "WIMSICAL: The Global Geometric-Entropic-Electromagnetic Model (GEE v7.3) — 3D Spherical Standing-Wave Interference, Multi-Plane Lensing Tomography & Observatory Pointing"
+version: 7.3.0
+date-released: 2026-11-25
+authors:
+  - family-names: "Chen"
+    given-names: "Yen-Hao"
+    alias: "Seven-Colored Lotus"
+    orcid: "https://orcid.org/0009-0007-2299-0913"
+license: CC-BY-4.0
+keywords:
+  - cosmology
+  - gravitational lensing
+  - standing-wave interference
+  - cosmic voids
+  - Eridanus Supervoid
+  - zero-free-parameter cosmology
+  - WIMSICAL GEE

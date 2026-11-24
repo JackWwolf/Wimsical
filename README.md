@@ -34,9 +34,9 @@ The **Global Geometric-Entropic-Electromagnetic Model (GEE v7.1)** demonstrates 
 
 ## Peer-Reviewed Journal Submissions (Independent Leaves)
 
-1. **Cosmology & Super-Horizon Structures:** *Resolving the Hubble Tension, Super-Horizon Structures, and Achromatic Cosmic Birefringence via Zeroth-Order Space Force-Flow and Entropic Void Expansion* — Submitted to **Universe** (ID: `universe-4752676`).
-2. **Strong-Field Gravity & Black Hole Horizons:** *Post-Merger Gravitational Wave Echoes from Planck-Scale Curvature Screening in a Covariant Geometric-Entropic Gravity Framework* — Submitted to **Physical Review D** (Received: 2026-11-22).
-3. **Galactic & Cluster Dynamics:** *Unified Dark-Matter-Free Galactic Dynamics, Bullet Cluster Lensing Offset, and Early JWST Galaxy Assembly via Covariant Space Force-Flow* — Submitted to **MNRAS** (ID: `MN-26-3727-P`).
+1. **Cosmology & Super-Horizon Structures:** *Resolving the Hubble Tension, Super-Horizon Structures, and Achromatic Cosmic Birefringence via Zeroth-Order Space Force-Flow and Entropic Void Expansion* — Submitted to **Universe** (ID: `universe-4752676`, Submitted: `2026-11-22`).
+2. **Strong-Field Gravity & Black Hole Horizons:** *Post-Merger Gravitational Wave Echoes from Planck-Scale Curvature Screening in a Covariant Geometric-Entropic Gravity Framework* — Submitted to **Physical Review D** (Received: `2026-11-22`).
+3. **Galactic & Cluster Dynamics:** *Unified Dark-Matter-Free Galactic Dynamics, Bullet Cluster Lensing Offset, and Early JWST Galaxy Assembly via Covariant Space Force-Flow* — Submitted to **MNRAS** (ID: `MN-26-3727-P`, OUP Waiver Case: `8190273`, Submitted: `2026-11-22`).
 
 ---
 

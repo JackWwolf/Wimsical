@@ -1,11 +1,13 @@
 # WIMSICAL: The Global Geometric-Entropic-Electromagnetic Model (GEE v7.1)
 
+[![DOI](https://zenodo.org)](https://doi.org)
 [![ORCID](https://shields.io)](https://orcid.org)
 [![License: CC BY 4.0](https://shields.io)](https://creativecommons.org)
 
 **Author:** YEN-HAO CHEN (Pen Name: *Seven-Colored Lotus*)  
 **Affiliation:** Independent Researcher, Hsinchu, Taiwan  
 **Correspondence:** jackwolf1970@gmail.com  
+**Concept DOI (All Versions):** `10.5281/zenodo.24493543` | **Version v7.1.1 DOI:** `10.5281/zenodo.24493544`
 
 ---
 
@@ -13,8 +15,9 @@
 
 The **Global Geometric-Entropic-Electromagnetic Model (GEE v7.1)** demonstrates that gravitational and cosmological phenomena—from Solar System ephemerides and spinning black hole horizons to galactic rotation curves, merging galaxy clusters, and super-horizon structures (> 1 Gly)—are governed by a single four-dimensional covariant least-action principle with **zero free parameters**, **zero non-baryonic dark matter**, and **zero dark energy scalar fields**.
 
-* **The Master Trunk (`v7.1`):** `WIMSICAL_GEE_v7.1_Master_Monograph_EN.pdf` (and `_TC.pdf`) serves as the single authoritative theoretical baseline, locking all covariant equations, universal constants, three rigorous computational axioms, and the 53-system full-retention astrophysical forensic database.
-* **Independent Leaves (`leaves/`):** Focused, single-topic manuscripts submitted to peer-reviewed journals.
+* **The Master Trunk (`WIMSICAL_GEE_v7.1_Master_Monograph_EN.pdf`):** Serves as the single authoritative theoretical baseline, locking all covariant equations, universal constants, three rigorous computational axioms, the 53-system full-retention astrophysical forensic database, and falsifiable blind-test predictions.
+* **Standalone Verification Suite (`verify_gee_v7.1.py`):** Zero-dependency Python script enabling any researcher or referee to reproduce all core GEE v7.1 predictions and `0.5-sigma` forensic diagnostics directly.
+* **Independent Leaves:** Focused, single-topic manuscripts submitted to peer-reviewed journals (decoupled from the Master Trunk so individual review revisions never perturb the core formulation).
 * **Rigorous Version History (`archive/`):** Preserves formal, mathematically vetted milestones starting strictly from the **v6.2** baseline.
 
 ---
@@ -29,7 +32,7 @@ The **Global Geometric-Entropic-Electromagnetic Model (GEE v7.1)** demonstrates 
 
 ---
 
-## Peer-Reviewed Journal Submissions (Leaves)
+## Peer-Reviewed Journal Submissions (Independent Leaves)
 
 1. **Cosmology & Super-Horizon Structures:** *Resolving the Hubble Tension, Super-Horizon Structures, and Achromatic Cosmic Birefringence via Zeroth-Order Space Force-Flow and Entropic Void Expansion* — Submitted to **Universe** (ID: `universe-4752676`).
 2. **Strong-Field Gravity & Black Hole Horizons:** *Post-Merger Gravitational Wave Echoes from Planck-Scale Curvature Screening in a Covariant Geometric-Entropic Gravity Framework* — Submitted to **Physical Review D** (Received: 2026-11-22).
@@ -37,6 +40,16 @@ The **Global Geometric-Entropic-Electromagnetic Model (GEE v7.1)** demonstrates 
 
 ---
 
-## How to Cite
+## How to Cite (BibTeX)
 
-> Chen, Y.-H. (2026). *WIMSICAL: The Global Geometric-Entropic-Electromagnetic Model (GEE v7.1 Master Monograph — Definitive Edition)*. Zenodo / GitHub Repository: `https://github.com`. ORCID: `0009-0007-2299-0913`.
+```bibtex
+@techreport{Chen2026_WIMSICAL_GEE_v71,
+  author       = {Chen, Yen-Hao},
+  title        = {{WIMSICAL: The Global Geometric-Entropic-Electromagnetic Model (GEE v7.1 Master Monograph — Definitive Edition)}},
+  year         = {2026},
+  month        = nov,
+  institution  = {Zenodo},
+  doi          = {10.5281/zenodo.24493543},
+  url          = {https://doi.org}
+}
+```

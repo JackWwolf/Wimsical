@@ -1,8 +1,8 @@
 cff-version: 1.2.0
-message: "If you use the WIMSICAL GEE v7.3 Master Monograph, Paper IV, or verification scripts in your research, please cite them using the metadata below."
-title: "WIMSICAL: The Global Geometric-Entropic-Electromagnetic Model (GEE v7.3) — 3D Spherical Standing-Wave Interference, Multi-Plane Lensing Tomography & Observatory Pointing"
-version: 7.3.0
-date-released: 2026-11-25
+message: "If you use the WIMSICAL GEE v7.5 Master Monograph, Paper IV, or verification scripts in your research, please cite them using the metadata below."
+title: "WIMSICAL: The Global Geometric-Entropic-Electromagnetic Model (GEE v7.5) — 3D Spherical Standing-Wave Interference, Multi-Plane Lensing Tomography & Observatory Pointing
+version: 7.5.0
+date-released: 2026-11-27
 authors:
   - family-names: "Chen"
     given-names: "Yen-Hao"

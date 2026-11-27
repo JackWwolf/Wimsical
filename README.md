@@ -9,7 +9,7 @@
 **Affiliation:** Independent Researcher, Hsinchu, Taiwan  
 **Correspondence:** jackwolf1970@gmail.com  
 **ORCID:** [0009-0007-2299-0913](https://orcid.org)  
-**Concept / Baseline Zenodo DOI:** [10.5281/zenodo.24509860](https://doi.org) *(Automatically updated upon `v7.5` Release)*
+**Concept / Baseline Zenodo DOI:** [10.5281/zenodo.24580326](https://doi.org) *(Automatically updated upon `v7.5` Release)*
 
 ---
 
